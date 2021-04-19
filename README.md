@@ -4,7 +4,7 @@
 
 # Fixed an issue that causing one of the links in the nav bar not to work properly.
 
-![](Develop/assets/images/SEO-refactor-ss.jpg)
+![](/assets/images/SEO-refactor-ss.jpg)
 
 
-![](Develop/assets/images/SEO-refactor-ss2.jpg)
+![](/assets/images/SEO-refactor-ss2.jpg)
